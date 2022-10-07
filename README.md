@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jerelai
 - 💞️ I’m looking to collaborate on my gamefi project
-- 📫 How to reach me jeremy@emarketingcentre.com ; glorygamesworlds@gmail.com
+- 📫 How to reach me jeremy@emarketingcentre.com ; jeremy@glorygames.world
 
 <!---
 jerelai/jerelai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
